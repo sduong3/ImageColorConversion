@@ -27,10 +27,3 @@ Type the name of the file you wish to convert and press enter. The program will 
 ## Authors
 
 * **Steven Duong**
-
-
-![Screenshot](test.jpg "Original Image")
-![Screenshot](testGray.jpg "GrayScale Image")
-![Screenshot](testRed.jpg "Red Image")
-![Screenshot](testGreen.jpg "Green Image")
-![Screenshot](testBlue.jpg "Blue Image")
