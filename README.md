@@ -17,13 +17,20 @@ Eclipse
 Type the name of the file you wish to convert and press enter. The program will then pop up the different color conversions of the image.
 
 
-![alt text](test.jpg "Original Image")
-![alt text](testGray.jpg "GrayScale Image")
-![alt text](testRed.jpg "Red Image")
-![alt text](testGreen.jpg "Green Image")
-![alt text](testBlue.jpg "Blue Image")
+![Screenshot](test.jpg "Original Image")
+![Screenshot](testGray.jpg "GrayScale Image")
+![Screenshot](testRed.jpg "Red Image")
+![Screenshot](testGreen.jpg "Green Image")
+![Screenshot](testBlue.jpg "Blue Image")
 
 
 ## Authors
 
 * **Steven Duong**
+
+
+![Screenshot](test.jpg "Original Image")
+![Screenshot](testGray.jpg "GrayScale Image")
+![Screenshot](testRed.jpg "Red Image")
+![Screenshot](testGreen.jpg "Green Image")
+![Screenshot](testBlue.jpg "Blue Image")
